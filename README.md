@@ -100,7 +100,7 @@ Since most users take on twitter to express their sentiments on these topics. We
 <p align="center">![Img_5](https://raw.githubusercontent.com/ramanpreet1990/CSE_587_Statistical_Analysis_Using_R/master/Resources/5.png) 
 
 
-**Solution**
+**Solution**</br>
 We collected data on US Elections for over 1 week (From 28 Feb to 5 March). Since this is a live ongoing topic we have also opened a live streaming connection to the twitter api and analyzing each tweet.
 
 We performed sentiment analysis on each tweet. To do this we are generating a list of words for each tweet and comparing this list with list of positive and negative words and checking how many words are positive and how many are negative. After this we are marking a tweet as a positive sentiment if the weightage of positive words is more than the weightage of negative words.
