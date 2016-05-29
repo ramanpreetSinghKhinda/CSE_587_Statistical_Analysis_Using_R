@@ -34,8 +34,8 @@ https://github.com/ramanpreet1990/CSE_587_Statistical_Analysis_Using_R/blob/mast
 **Solution**</br>
 We have collected data for a period of 1 week using twitter streaming api's. The data is regarding real estate trends in New York city. Specifically the rent vs. buy trends in Manhattan, Brooklyn, Bronx and StatenIsland.
 
-Tutorials followed to understand Twitter Streaming API’s
-1. http://bogdanrau.com/blog/collecting-tweets-using-r-and-the-twitter-streaming-api/
+Tutorials followed to understand Twitter Streaming API’s </br>
+1. http://bogdanrau.com/blog/collecting-tweets-using-r-and-the-twitter-streaming-api/ </br>
 2. http://pablobarbera.com/blog/archives/1.html
 
 Refer complete solution: -</br>
