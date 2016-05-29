@@ -20,7 +20,7 @@ Download and extract the complete data set available at: -</br>
 https://github.com/oreillymedia/doing_data_science
 
 
-<p align="center">[**We describe the problems to be solved in several parts**]
+###<p align="center">**We describe the problems to be solved in several parts**
 
 
 
@@ -36,3 +36,4 @@ We have collected data for a period of 1 week using twitter streaming api's. The
 
 Refer below: -</br>
 https://github.com/ramanpreet1990/CSE_587_Statistical_Analysis_Using_R/tree/master/Problem_1
+
