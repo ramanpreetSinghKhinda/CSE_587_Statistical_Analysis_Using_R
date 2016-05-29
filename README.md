@@ -19,7 +19,10 @@ We got to work on a fairly large data sets (**multiple files having millions of 
 Download and extract the complete data set available at: -</br>
 https://github.com/oreillymedia/doing_data_science
 
+
 ###<p align="center">**We describe the problems to be solved in several parts**
+
+
 
 Problem 1: Data acquisition
 ---------------------------------------
@@ -34,3 +37,15 @@ We have collected data for a period of 1 week using twitter streaming api's. The
 Refer below: -</br>
 https://github.com/ramanpreet1990/CSE_587_Statistical_Analysis_Using_R/tree/master/Problem_1
 
+
+Problem 2: Simple EDA
+---------------------------------
+This problem explores the effectiveness of online newspaper promotions and advertisements. We have used **New York Times data** collected from https://github.com/oreillymedia/doing_data_science that contains information about readers: {age, gender, number of impressions, number of clicks, and logged in or not.} 
+
+**Solution**</br>
+We performed exploratory data analysis on the data and tried to get an intuition about behavior change in different Age Groups. As described in one of the charts below.
+
+Refer complete solution: -</br>
+https://github.com/ramanpreet1990/CSE_587_Statistical_Analysis_Using_R/tree/master/Problem_2
+
+![Img_3](https://raw.githubusercontent.com/ramanpreet1990/CSE_587_Statistical_Analysis_Using_R/master/Resources/3.png)
