@@ -34,6 +34,10 @@ https://github.com/ramanpreet1990/CSE_587_Statistical_Analysis_Using_R/blob/mast
 **Solution**</br>
 We have collected data for a period of 1 week using twitter streaming api's. The data is regarding real estate trends in New York city. Specifically the rent vs. buy trends in Manhattan, Brooklyn, Bronx and StatenIsland.
 
+Tutorials followed to understand Twitter Streaming API’s
+1. http://bogdanrau.com/blog/collecting-tweets-using-r-and-the-twitter-streaming-api/
+2. http://pablobarbera.com/blog/archives/1.html
+
 Refer complete solution: -</br>
 https://github.com/ramanpreet1990/CSE_587_Statistical_Analysis_Using_R/tree/master/Problem_1
 
@@ -84,3 +88,61 @@ Refer complete solution: -<br>
 https://github.com/ramanpreet1990/CSE_587_Statistical_Analysis_Using_R/tree/master/Problem_4
 
 <p align="center">![Img_4](https://raw.githubusercontent.com/ramanpreet1990/CSE_587_Statistical_Analysis_Using_R/master/Resources/4.png) 
+
+
+
+Problem 5: Stream processing - US Presidential Elections
+---------------------
+This is an Election Season and everyone is talking about how will going to be the next President of US and many data analytics companies are gauzing the Social Network data to predict the future.
+
+Since most users take on twitter to express their sentiments on these topics. We collected data on top candidates for Democratic and Republican party and performed analysis on what users say about these candidates.
+
+<p align="center">![Img_5](https://raw.githubusercontent.com/ramanpreet1990/CSE_587_Statistical_Analysis_Using_R/master/Resources/5.png) 
+
+
+**Solution**
+We collected data on US Elections for over 1 week (From 28 Feb to 5 March). Since this is a live ongoing topic we have also opened a live streaming connection to the twitter api and analyzing each tweet.
+
+We performed sentiment analysis on each tweet. To do this we are generating
+a list of words for each tweet and comparing this list with list of positive and negative words and checking how many words are positive and how many are negative. After this we are marking a tweet as a positive sentiment if the weightage of positive words is more than the weightage of negative words.
+
+Refer complete solution: -<br>
+https://github.com/ramanpreet1990/CSE_587_Statistical_Analysis_Using_R/tree/master/Problem_5
+
+<p align="center">![Img_6](https://raw.githubusercontent.com/ramanpreet1990/CSE_587_Statistical_Analysis_Using_R/master/Resources/6.png) 
+
+
+References and Acknowledgement
+-------------------------------------------------
+I am grateful to the authors of these papers and their research on
+Sentiment Analysis. Their contribution has helped me deeply analyze user’s
+sentiments.
+
+http://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html
+
+Minqing Hu and Bing Liu. "Mining and Summarizing Customer Reviews."
+Proceedings of the ACM SIGKDD International Conference on Knowledge
+Discovery and Data Mining (KDD-2004), Aug 22-25, 2004, Seattle,
+Washington, USA,
+
+Bing Liu, Minqing Hu and Junsheng Cheng. "Opinion Observer: Analyzing
+and Comparing Opinions on the Web." Proceedings of the 14th
+International World Wide Web conference (WWW-2005), May 10-14,
+2005, Chiba, Japan.
+
+
+Credits
+----------
+I acknowledge and grateful to [**Professor Bina Ramamurthy**](http://www.cse.buffalo.edu/faculty/bina/) and [**TA Junfei Wang**](https://www.linkedin.com/in/junfei-wang-5971a848) for their continuous support throughout the Course ([**CSE 587**](http://www.cse.buffalo.edu/~bina/cse487/spring2016/CourseDescription/description.html)) that helped me learn the skills of Data Intensive Computing and solve real life problems using that.
+
+
+License
+-------
+Copyright {2016} 
+{Ramanpreet Singh Khinda rkhinda@buffalo.edu & Elroy Preetham Alva elroypre@buffalo.edu} 
+
+Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
+
+http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
