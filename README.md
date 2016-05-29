@@ -19,10 +19,7 @@ We got to work on a fairly large data sets (**multiple files having millions of 
 Download and extract the complete data set available at: -</br>
 https://github.com/oreillymedia/doing_data_science
 
-
 ###<p align="center">**We describe the problems to be solved in several parts**
-
-
 
 Problem 1: Data acquisition
 ---------------------------------------
