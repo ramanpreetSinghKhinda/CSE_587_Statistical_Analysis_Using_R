@@ -93,7 +93,7 @@ https://github.com/ramanpreet1990/CSE_587_Statistical_Analysis_Using_R/tree/mast
 
 Problem 5: Stream processing - US Presidential Elections
 ---------------------
-This is an Election Season and everyone is talking about how will going to be the next President of US and many data analytics companies are gauzing the Social Network data to predict the future.
+This is an Election Season and everyone is talking about who will going to be the next President of US and many data analytics companies are gauzing the Social Network data to predict the future.
 
 Since most users take on twitter to express their sentiments on these topics. We collected data on top candidates for Democratic and Republican party and performed analysis on what users say about these candidates.
 
