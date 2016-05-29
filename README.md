@@ -34,7 +34,7 @@ https://github.com/ramanpreet1990/CSE_587_Statistical_Analysis_Using_R/blob/mast
 **Solution**</br>
 We have collected data for a period of 1 week using twitter streaming api's. The data is regarding real estate trends in New York city. Specifically the rent vs. buy trends in Manhattan, Brooklyn, Bronx and StatenIsland.
 
-Refer below: -</br>
+Refer complete solution: -</br>
 https://github.com/ramanpreet1990/CSE_587_Statistical_Analysis_Using_R/tree/master/Problem_1
 
 
@@ -49,3 +49,20 @@ Refer complete solution: -</br>
 https://github.com/ramanpreet1990/CSE_587_Statistical_Analysis_Using_R/tree/master/Problem_2
 
 <p align="center">![Img_1](https://raw.githubusercontent.com/ramanpreet1990/CSE_587_Statistical_Analysis_Using_R/master/Resources/1.png)
+
+
+Problem 3: Data economy - a real case study
+---------------------------------------------------------------
+For this problem we have to work on the RealDirect data set collected from https://github.com/oreillymedia/doing_data_science and perform EDA to find some more insights.
+
+This particular problem is a “data problem” from a company is that is currently operational, see http://www.realdirect.com/ . Read the details and understand the business model.
+
+**Solution**</br>
+We performed EDA on the RealDirect data and plot graphs for the generated sales and analyzed the cost of living. We take a step ahead and split the Home built dates into groups of 30 years each and analyze fluctuation in sales across different location around the New York city over the years.
+
+This analysis given us intuition about what home categories got popular during these different time frames.
+
+As described in one of the charts below. Refer complete solution: -<br>
+https://github.com/ramanpreet1990/CSE_587_Statistical_Analysis_Using_R/tree/master/Problem_3
+
+<p align="center">![Img_3](https://raw.githubusercontent.com/ramanpreet1990/CSE_587_Statistical_Analysis_Using_R/master/Resources/3.png) 
