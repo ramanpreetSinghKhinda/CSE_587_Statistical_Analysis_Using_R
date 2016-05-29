@@ -103,8 +103,9 @@ Since most users take on twitter to express their sentiments on these topics. We
 **Solution**
 We collected data on US Elections for over 1 week (From 28 Feb to 5 March). Since this is a live ongoing topic we have also opened a live streaming connection to the twitter api and analyzing each tweet.
 
-We performed sentiment analysis on each tweet. To do this we are generating
-a list of words for each tweet and comparing this list with list of positive and negative words and checking how many words are positive and how many are negative. After this we are marking a tweet as a positive sentiment if the weightage of positive words is more than the weightage of negative words.
+We performed sentiment analysis on each tweet. To do this we are generating a list of words for each tweet and comparing this list with list of positive and negative words and checking how many words are positive and how many are negative. After this we are marking a tweet as a positive sentiment if the weightage of positive words is more than the weightage of negative words.
+
+We created user interfaces using [**Shiny**](http://shiny.rstudio.com) which is a web application framework for R.
 
 Refer complete solution: -<br>
 https://github.com/ramanpreet1990/CSE_587_Statistical_Analysis_Using_R/tree/master/Problem_5
@@ -114,9 +115,7 @@ https://github.com/ramanpreet1990/CSE_587_Statistical_Analysis_Using_R/tree/mast
 
 References and Acknowledgement
 -------------------------------------------------
-I am grateful to the authors of these papers and their research on
-Sentiment Analysis. Their contribution has helped me deeply analyze user’s
-sentiments.
+I am grateful to the authors of these papers and their research on Sentiment Analysis. Their contribution has helped me deeply analyze user’s sentiments.
 
 http://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html
 
