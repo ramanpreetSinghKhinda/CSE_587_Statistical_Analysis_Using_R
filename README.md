@@ -138,7 +138,7 @@ I acknowledge and grateful to [**Professor Bina Ramamurthy**](http://www.cse.buf
 License
 -------
 Copyright {2016} 
-{Ramanpreet Singh Khinda rkhinda@buffalo.edu & Elroy Preetham Alva elroypre@buffalo.edu} 
+{Ramanpreet Singh Khinda rkhinda@buffalo.edu} 
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 
