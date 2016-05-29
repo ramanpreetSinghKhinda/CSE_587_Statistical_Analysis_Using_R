@@ -58,11 +58,29 @@ For this problem we have to work on the RealDirect data set collected from https
 This particular problem is a “data problem” from a company is that is currently operational, see http://www.realdirect.com/ . Read the details and understand the business model.
 
 **Solution**</br>
-We performed EDA on the RealDirect data and plot graphs for the generated sales and analyzed the cost of living. We take a step ahead and split the Home built dates into groups of 30 years each and analyze fluctuation in sales across different location around the New York city over the years.
+We performed EDA on the RealDirect data and plot graphs for the generated sales and analyzed the cost of living. We take a step ahead and split the Home built dates into groups of 30 years each and analyze fluctuation in sales across different location around the New York city over the years. As described in one of the charts below.
 
 This analysis given us intuition about what home categories got popular during these different time frames.
 
-As described in one of the charts below. Refer complete solution: -<br>
+Refer complete solution: -<br>
 https://github.com/ramanpreet1990/CSE_587_Statistical_Analysis_Using_R/tree/master/Problem_3
 
 <p align="center">![Img_3](https://raw.githubusercontent.com/ramanpreet1990/CSE_587_Statistical_Analysis_Using_R/master/Resources/3.png) 
+
+
+
+Problem 4: Statistical analysis to support new data product
+---------------------------------------------------------------
+In this problem we further explore the RealDirect business. We realize that [**RealDirect**](http://www.realdirect.com/) has built a business around existing real estate (buying and selling) business by creatively repurposing the data and building a data product around it. They have created a web (and mobile) portal with tools to facilitate real estate related operations. 
+
+Assume you have been hired by ReaDirect to extend the line of product offerings. You put on your thinking cap and realize that NY is a prime location for apartment rental since buying real estate (houses and apartments) is beyond their means for many. You also realize that many prospective clients take to twitter when they need something and want to express their sentiments and status. You plan to recommend to the executive team at RealDirect that they should offer apartment rental as a product. You want to arm yourself with data to prove your recommendation. You plan to collect twitter data about apartment rental and real estate (buying a house) for a week on a daily basis and show the feasibility of your recommendation with this statistical analysis.
+
+**Solution**</br>
+To analyze real estate trends on twitter streaming data we performed sentiment analysis on each tweet and found whether the user is talking about renting an apartment or buying an apartment. This analyses was our backing information for suggesting a new product to Real Direct.
+
+After performing the analysis, we get to know how many users are talking about renting vs buying an apartment and also their response on cost of living at a particular place.
+
+Refer complete solution: -<br>
+https://github.com/ramanpreet1990/CSE_587_Statistical_Analysis_Using_R/tree/master/Problem_4
+
+<p align="center">![Img_4](https://raw.githubusercontent.com/ramanpreet1990/CSE_587_Statistical_Analysis_Using_R/master/Resources/4.png) 
