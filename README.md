@@ -16,12 +16,12 @@ Data Characteristics
 ----------------------------
 We got to work on a fairly large data sets (**multiple files having millions of rows**) that have been collected for a period of time. We have used structured and semi-structured data i.e. data stored in spreadsheets (like Excel CSV files) and [**streaming data**](https://aws.amazon.com/streaming-data/). 
 
-Download and extract the complete data set available at: -
+Download and extract the complete data set available at: -</br>
 https://github.com/oreillymedia/doing_data_science
 
 
-<p align="center">We describe the problems to be solved in several parts
----------------------------------
+<p align="center">[**We describe the problems to be solved in several parts**]
+
 
 
 Problem 1: Data acquisition
@@ -31,8 +31,8 @@ Data collection is an important step that often is quite time consuming and cons
 We will learn about this by working on few representative methods for data acquisition given in the handout:
 https://github.com/ramanpreet1990/CSE_587_Statistical_Analysis_Using_R/blob/master/R_Handout.pdf
 
-**Solution**
+**Solution**</br>
 We have collected data for a period of 1 week using twitter streaming api's. The data is regarding real estate trends in New York city. Specifically the rent vs. buy trends in Manhattan, Brooklyn, Bronx and StatenIsland.
 
-Refer below: -
+Refer below: -</br>
 https://github.com/ramanpreet1990/CSE_587_Statistical_Analysis_Using_R/tree/master/Problem_1
