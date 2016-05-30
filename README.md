@@ -1,4 +1,4 @@
-<p align="center">Data Intensive Computing</br>Exploratory Data Analysis using R</br>CSE 587
+<p align="center">Data Intensive Computing</br>Exploratory Data Analysis using R</br>CSE 587 - Spring 2016
 ==========================================================================================
 <p align="center">![Img_1](https://raw.githubusercontent.com/ramanpreet1990/CSE_587_Statistical_Analysis_Using_R/master/Resources/2.png)
 
