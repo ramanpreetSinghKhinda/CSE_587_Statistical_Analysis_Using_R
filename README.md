@@ -21,8 +21,7 @@ Download and extract the complete data set available at: -</br>
 https://github.com/oreillymedia/doing_data_science
 
 
-###<p align="center">**We describe the problems to be solved in several parts**
-
+## <p align="center">**We describe the problems to be solved in several parts**
 
 
 Problem 1: Data acquisition
@@ -53,8 +52,7 @@ We performed exploratory data analysis on the data and tried to get an intuition
 Refer complete solution: -</br>
 https://github.com/ramanpreet1990/CSE_587_Statistical_Analysis_Using_R/tree/master/Problem_2
 
-<p align="center">![Img_1](https://raw.githubusercontent.com/ramanpreet1990/CSE_587_Statistical_Analysis_Using_R/master/Resources/1.png)
-
+<img src="https://raw.githubusercontent.com/ramanpreet1990/CSE_587_Statistical_Analysis_Using_R/master/Resources/1.png" align=center>
 
 Problem 3: Data economy - a real case study
 ---------------------------------------------------------------
@@ -70,9 +68,7 @@ This analysis given us intuition about what home categories got popular during t
 Refer complete solution: -<br>
 https://github.com/ramanpreet1990/CSE_587_Statistical_Analysis_Using_R/tree/master/Problem_3
 
-<p align="center">![Img_3](https://raw.githubusercontent.com/ramanpreet1990/CSE_587_Statistical_Analysis_Using_R/master/Resources/3.png) 
-
-
+<img src="https://raw.githubusercontent.com/ramanpreet1990/CSE_587_Statistical_Analysis_Using_R/master/Resources/3.png" align=center>
 
 Problem 4: Statistical analysis to support new data product
 ---------------------------------------------------------------
@@ -88,9 +84,7 @@ After performing the analysis, we get to know how many users are talking about r
 Refer complete solution: -<br>
 https://github.com/ramanpreet1990/CSE_587_Statistical_Analysis_Using_R/tree/master/Problem_4
 
-<p align="center">![Img_4](https://raw.githubusercontent.com/ramanpreet1990/CSE_587_Statistical_Analysis_Using_R/master/Resources/4.png) 
-
-
+<img src="https://raw.githubusercontent.com/ramanpreet1990/CSE_587_Statistical_Analysis_Using_R/master/Resources/4.png" align=center>
 
 Problem 5: Stream processing - US Presidential Elections
 ---------------------
@@ -98,8 +92,7 @@ This is an Election Season and everyone is talking about who will going to be th
 
 Since most users take on twitter to express their sentiments on these topics. We collected data on top candidates for Democratic and Republican party and performed analysis on what users say about these candidates.
 
-<p align="center">![Img_5](https://raw.githubusercontent.com/ramanpreet1990/CSE_587_Statistical_Analysis_Using_R/master/Resources/5.png) 
-
+<img src="https://raw.githubusercontent.com/ramanpreet1990/CSE_587_Statistical_Analysis_Using_R/master/Resources/5.png" align=center>
 
 **Solution**</br>
 We collected data on US Elections for over 1 week (From 28 Feb to 5 March). Since this is a live ongoing topic we have also opened a live streaming connection to the twitter api and analyzing each tweet.
@@ -111,8 +104,7 @@ We created user interfaces using [**Shiny**](http://shiny.rstudio.com) which is 
 Refer complete solution: -<br>
 https://github.com/ramanpreet1990/CSE_587_Statistical_Analysis_Using_R/tree/master/Problem_5
 
-<p align="center">![Img_6](https://raw.githubusercontent.com/ramanpreet1990/CSE_587_Statistical_Analysis_Using_R/master/Resources/6.png) 
-
+<img src="https://raw.githubusercontent.com/ramanpreet1990/CSE_587_Statistical_Analysis_Using_R/master/Resources/6.png" align=center>
 
 References and Acknowledgement
 -------------------------------------------------
